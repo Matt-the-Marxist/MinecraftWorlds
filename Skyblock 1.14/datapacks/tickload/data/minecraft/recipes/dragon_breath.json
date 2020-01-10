@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "313",
+    "121",
+    "x1x"
+  ],
+  "key": {
+    "1": {
+      "item": "nether_bricks"
+    },
+    "2": {
+      "item": "ender_chest"
+    },
+    "x": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "quartz" 
+    }
+  },
+  "result": {
+    "item": "dragon_breath",
+    "count": 4
+  }
+}

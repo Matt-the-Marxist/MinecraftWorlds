@@ -1,0 +1,14 @@
+ {
+   "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soul_sand"
+    },
+    {
+      "item": "end_stone"
+    }
+  ],
+   "result": {
+     "item": "shulker_shell"
+   }
+ }

@@ -1,0 +1,29 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "111",
+    "323",
+    "x4x"
+  ],
+  "key": {
+    "1": {
+      "item": "obsidian"
+    },
+    "2": {
+      "item": "netherrack"
+    },
+    "x": {
+      "item": "blaze_rod"
+    },
+    "3": {
+      "item": "end_rod"
+    },
+    "4": {
+      "item": "ender_eye"
+    }
+  },
+  "result": {
+    "item": "ender_chest",
+    "count": 1
+  }
+}

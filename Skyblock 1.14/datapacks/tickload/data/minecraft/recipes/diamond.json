@@ -1,0 +1,20 @@
+ {
+       "type": "crafting_shaped",
+       "pattern": [
+           "111",
+           "121",
+           "111"
+       ],
+       "key": {
+           "1": {
+               "item": "end_crystal"
+           },
+           "2": {
+               "item": "ender_chest"
+           }
+       },
+       "result": {
+           "item": "minecraft:diamond",
+           "count": 1
+       }
+	}

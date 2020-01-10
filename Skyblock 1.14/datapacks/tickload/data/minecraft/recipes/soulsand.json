@@ -1,0 +1,23 @@
+ {
+       "type": "crafting_shaped",
+       "pattern": [
+           "131",
+           "121",
+           "111"
+       ],
+  "key": {
+    "1": {
+      "item": "nether_wart"
+    },
+    "2": {
+      "item": "magma_cream"
+    },
+    "3": {
+      "item": "blaze_rod"
+    }
+  },
+       "result": {
+           "item": "soul_sand",
+           "count": 1
+       }
+	}

@@ -1,0 +1,20 @@
+ {
+       "type": "crafting_shaped",
+       "pattern": [
+           "111",
+           "121",
+           "111"
+       ],
+       "key": {
+           "1": {
+               "item": "minecraft:soul_sand"
+           },
+           "2": {
+               "item": "minecraft:heart_of_the_sea"
+           }
+       },
+       "result": {
+           "item": "minecraft:end_stone",
+           "count": 1
+       }
+	}

@@ -1,0 +1,23 @@
+ {
+       "type": "crafting_shaped",
+       "pattern": [
+           "131",
+           "121",
+           "111"
+       ],
+  "key": {
+    "1": {
+      "item": "seagrass"
+    },
+    "2": {
+      "item": "dirt"
+    },
+    "3": {
+      "item": "end_rod"
+    }
+  },
+       "result": {
+           "item": "minecraft:mycelium",
+           "count": 1
+       }
+	}

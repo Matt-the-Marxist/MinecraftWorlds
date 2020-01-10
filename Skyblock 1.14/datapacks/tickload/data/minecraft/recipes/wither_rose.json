@@ -1,0 +1,29 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "x34",
+    "121",
+    "x34"
+  ],
+  "key": {
+    "1": {
+      "item": "wither_skeleton_skull"
+    },
+    "2": {
+      "item": "skeleton_skull"
+    },
+    "x": {
+      "item": "brown_mushroom"
+    },
+    "3": {
+      "item": "minecraft:poppy"
+    },
+    "4": {
+      "item": "minecraft:red_mushroom"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_rose",
+    "count": 20
+  }
+}

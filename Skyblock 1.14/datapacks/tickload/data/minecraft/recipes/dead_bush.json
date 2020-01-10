@@ -1,0 +1,7 @@
+{
+"type": "smelting", 
+"ingredient": { "item": "minecraft:fern" }, 
+"result": "minecraft:dead_bush", 
+"experience": 0.5, 
+"cookingtime": 100 
+}
